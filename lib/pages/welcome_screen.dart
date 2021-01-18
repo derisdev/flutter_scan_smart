@@ -35,7 +35,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
               ),
               SizedBox(height: 20,),
               Text('“Smart Scan Text”          ', style: TextStyle(color: Colors.deepOrange, fontSize: 25, fontWeight: FontWeight.bold),               ),
-              SizedBox(height: 140,),
+              SizedBox(height: 170,),
               Text('Aplikasi ini dibangun oleh:',
                   style: TextStyle(color: Colors.deepOrange, fontSize: 17)),
               SizedBox(height: 20,),
