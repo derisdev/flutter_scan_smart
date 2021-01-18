@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605439665679",
+    "project_id": "smart-scan-text",
+    "storage_bucket": "smart-scan-text.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605439665679:android:c8dd3d04462ed5484b257a",
+        "android_client_info": {
+          "package_name": "id.deris.scansmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605439665679-dq1arae008n6o9r3dhitdnhle9kqfrff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL1utEnBOxLJZlop0lUVnwgf8QAHI7KxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605439665679-dq1arae008n6o9r3dhitdnhle9kqfrff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
